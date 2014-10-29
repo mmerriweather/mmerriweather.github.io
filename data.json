@@ -1,0 +1,112 @@
+[  
+      {  
+         "lat":43.1022,
+         "city":"Dolgeville",
+         "zip":13329,
+         "lon":-74.7759,
+         "state":"NY",
+         "street":"38 Slawson St",
+         "country":"US",
+         "gsid":3600001,
+         "name":"James A Green High School"
+      },
+      {  
+         "lat":43.1022,
+         "city":"Dolgeville",
+         "zip":13329,
+         "lon":-74.7759,
+         "state":"NY",
+         "street":"38 Slawson St",
+         "country":"US",
+         "gsid":3600002,
+         "name":"Dolgeville Elementary School"
+      },
+      {  
+         "lat":42.9885,
+         "city":"Sauquoit",
+         "zip":13456,
+         "lon":-75.2534,
+         "state":"NY",
+         "street":"2601 Oneida St",
+         "country":"US",
+         "gsid":3600003,
+         "name":"Sauquoit Valley High School"
+      },
+      {  
+         "lat":42.9885,
+         "city":"Sauquoit",
+         "zip":13456,
+         "lon":-75.2534,
+         "state":"NY",
+         "street":"2601 Oneida St",
+         "country":"US",
+         "gsid":3600004,
+         "name":"Sauquoit Valley Elementary School"
+      },
+      {  
+         "lat":42.9885,
+         "city":"Sauquoit",
+         "zip":13456,
+         "lon":-75.2534,
+         "state":"NY",
+         "street":"2601 Oneida St",
+         "country":"US",
+         "gsid":3600005,
+         "name":"Sauquoit Valley Middle School"
+      },
+      {  
+         "lat":44.3609,
+         "city":"Russell",
+         "zip":13684,
+         "lon":-75.1283,
+         "state":"NY",
+         "street":"2512 County Hwy 24",
+         "country":"US",
+         "gsid":3600006,
+         "name":"Edwards-Knox Elementary School"
+      },
+      {  
+         "lat":42.7755,
+         "city":"Schenectady",
+         "zip":12303,
+         "lon":-73.953,
+         "state":"NY",
+         "street":"2070 Curry Rd",
+         "country":"US",
+         "gsid":3600008,
+         "name":"Draper Middle School"
+      },
+      {  
+         "lat":40.7596,
+         "city":"Bellport",
+         "zip":11713,
+         "lon":-72.9432,
+         "state":"NY",
+         "street":"35 Kreamer St",
+         "country":"US",
+         "gsid":3600020,
+         "name":"Bellport Middle School"
+      },
+      {  
+         "lat":42.563,
+         "city":"Wayland",
+         "zip":14572,
+         "lon":-77.6028,
+         "state":"NY",
+         "street":"2350 Rt 63",
+         "country":"US",
+         "gsid":3600038,
+         "name":"Wayland Elementary School"
+      },
+      {  
+         "lat":43.1273,
+         "city":"Durhamville",
+         "zip":13054,
+         "lon":-75.6772,
+         "state":"NY",
+         "street":"5462 Main St",
+         "country":"US",
+         "gsid":3600045,
+         "name":"Durhamville School"
+      }
+   ]
